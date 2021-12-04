@@ -1,0 +1,15 @@
+.container {
+  background-color: #fffafa;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.chart {
+  margin: 1rem;
+  width: 40%;
+  padding-bottom: 5rem;
+  padding-left: 2rem;
+}

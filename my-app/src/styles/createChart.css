@@ -1,0 +1,21 @@
+.graph {
+  cursor: pointer;
+}
+
+.graph:hover .edit {
+  display: block;
+  cursor: pointer;
+}
+
+.edit {
+  padding-top: 7px;
+  padding-right: 7px;
+  position: relative;
+  right: 0;
+  top: 0;
+  display: none;
+}
+
+.edit a {
+  color: #000;
+}
