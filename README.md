@@ -5,5 +5,6 @@
 3. npm i / yarn
 4. npm start / yarn start
 
-Hosted on Firebase Static Server:
+# Hosted on Firebase Static Server:
+
 https://chart-dashboard-1249e.firebaseapp.com/
